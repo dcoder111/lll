@@ -1,3 +1,6 @@
+// Practical No.2
+// Aim: Write a program to implement Huffman Encoding using a greedy strategy.
+    
 import java.util.HashMap;
 import java.util.Map;
 import java.util.PriorityQueue;
