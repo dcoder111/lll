@@ -1,5 +1,7 @@
-import java.util.Scanner;
+Practical No.1
+Aim: Write a program non-recursive and recursive program to calculate Fibonacci numbers and analyze their time and space complexity.
 
+import java.util.Scanner;
 public class Fibonacci 
 {
     // Recursive approach to calculate the nth Fibonacci number
