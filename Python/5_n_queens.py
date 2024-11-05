@@ -49,3 +49,19 @@ if __name__ == "__main__":
     # Take user input for board size
     n = int(input("Enter the size of the chessboard (n): "))
     n_queens(n)
+
+
+# Output
+# Enter the size of the chessboard (n): 4
+# Found 2 solutions for 4-Queens problem:
+
+# 0 Q 0 0
+# 0 0 0 Q
+# Q 0 0 0
+# 0 0 Q 0
+
+# 0 0 Q 0
+# Q 0 0 0
+# 0 0 0 Q
+# 0 Q 0 0
+
